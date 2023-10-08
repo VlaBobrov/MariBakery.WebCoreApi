@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nvx34rKQaTWZz+QJqwg4Ti4IXaKzv8jFMLrbRqkzre8S37LSCk/b9QTna+9i/xnRbyh6XCv0/YVMExRfaSs9yA==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\MariBakery.WebCoreApi\\MariBakery.WebCoreApi\\MariBakery.WebCoreApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\KorolSwojejJizni\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

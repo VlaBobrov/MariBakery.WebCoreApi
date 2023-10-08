@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariBakery.WebCoreApi", "MariBakery.WebCoreApi\MariBakery.WebCoreApi.csproj", "{7DA0C8CC-29BC-4A3F-8F38-F43462AFF93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA0C8CC-29BC-4A3F-8F38-F43462AFF93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA0C8CC-29BC-4A3F-8F38-F43462AFF93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA0C8CC-29BC-4A3F-8F38-F43462AFF93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA0C8CC-29BC-4A3F-8F38-F43462AFF93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6219F82-5276-4077-B48E-3B83EC274456}
+	EndGlobalSection
+EndGlobal
